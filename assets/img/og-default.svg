@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="ClearCycle RCM — credentialing-first medical billing">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0e1b26"/>
+      <stop offset="1" stop-color="#13222e"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.18" r="0.6">
+      <stop offset="0" stop-color="#19b896" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#19b896" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+
+  <!-- Logo mark -->
+  <g transform="translate(96,84)">
+    <rect width="64" height="64" rx="15" fill="#19b896"/>
+    <g fill="none" stroke="#0e1b26" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M50 32a18 18 0 1 1-6 -13.4"/>
+      <path d="M50 14v12h-12"/>
+    </g>
+    <text x="84" y="42" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#ffffff" font-weight="700">ClearCycle <tspan fill="#6fd3bd" font-style="italic">RCM</tspan></text>
+  </g>
+
+  <!-- Eyebrow -->
+  <text x="96" y="252" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="3" fill="#6fd3bd" font-weight="700">CREDENTIALING-FIRST REVENUE CYCLE MANAGEMENT</text>
+
+  <!-- Headline -->
+  <text x="92" y="340" font-family="Georgia, 'Times New Roman', serif" font-size="78" fill="#ffffff" font-weight="700">Get credentialed.</text>
+  <text x="92" y="430" font-family="Georgia, 'Times New Roman', serif" font-size="78" fill="#ffffff" font-weight="700">Get a <tspan fill="#6fd3bd" font-style="italic">free website.</tspan></text>
+
+  <!-- Subhead -->
+  <text x="96" y="500" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#aeb9c2">Payer enrollment in 45–90 days · 98.4% clean claim rate · From 3.9% of collections</text>
+
+  <!-- Badges -->
+  <g font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">
+    <g transform="translate(96,540)">
+      <rect width="300" height="50" rx="25" fill="#19b896"/>
+      <text x="28" y="32" fill="#0e1b26">Free website w/ credentialing</text>
+    </g>
+    <g transform="translate(416,540)">
+      <rect width="270" height="50" rx="25" fill="none" stroke="#3a4a57" stroke-width="1.5"/>
+      <text x="28" y="32" fill="#dfe6ec">HIPAA · SOC 2 Type II</text>
+    </g>
+  </g>
+</svg>

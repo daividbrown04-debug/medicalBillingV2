@@ -1,0 +1,18 @@
+{
+  "name": "ClearCycle RCM",
+  "short_name": "ClearCycle",
+  "description": "Credentialing-first medical billing and revenue cycle management for US healthcare practices.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7f5f0",
+  "theme_color": "#0e1b26",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any maskable"
+    }
+  ]
+}
